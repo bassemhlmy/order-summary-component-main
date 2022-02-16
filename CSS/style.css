@@ -74,6 +74,7 @@ p {
 @media (min-width: 1440px) {
   .order-summery-card {
     width: 40rem;
+    row-gap: 3rem;
   }
 }
 
